@@ -4,12 +4,15 @@ Olá! Eu sou João Vitor Ribeiro Cândido
 Desenvolvedor Front-End - Front-End Developer
 -------------------------------------------
 
-<div align="justify"> Desenvolvedor Front-End com experiência no desenvolvimento de soluções para e-commerce, utilizando principalmente ReactJS, TypeScript e a plataforma VTEX IO. Minha atuação é guiada por performance, experiência do usuário e escalabilidade, sempre alinhando tecnologia às necessidades do negócio.
-
+<div align="justify"> 
+<p>Desenvolvedor Front-End com experiência no desenvolvimento de soluções para e-commerce, utilizando principalmente ReactJS, TypeScript e a plataforma VTEX IO. Minha atuação é guiada por performance, experiência do usuário e escalabilidade, sempre alinhando tecnologia às necessidades do negócio.</p>
+<p>  
 Formado em Engenharia de Software e atualmente cursando pós-graduação em Front-End Engineering pela FIAP, acredito que aprendizado contínuo e prática são fundamentais para a excelência técnica.
 Tenho experiência em componentização estratégica, customizações avançadas, melhorias de performance (Core Web Vitals) e SEO técnico, sempre com foco em entregar resultados tangíveis e valor para a equipe e para o cliente.
-
+</p>
+<p>
 Estou sempre em busca de novos desafios que me permitam evoluir tecnicamente, colaborar com times de alta performance e contribuir para projetos que impactem positivamente usuários e negócios.
+</p>
 </div>
 
 <br>
