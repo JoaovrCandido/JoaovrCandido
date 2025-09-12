@@ -1,23 +1,22 @@
-Hello! I am João Vitor Ribeiro Cândido
+Olá! Eu sou João Vitor Ribeiro Cândido
 =========================================
 
-Front-End Developer - Software Developer
+Desenvolvedor Front-End - Front-End Developer
 -------------------------------------------
 
-<div align="justify"> Front-End Developer, 21 years old, passionate about acquiring new skills and absorbing knowledge, especially through reading. I have an unwavering focus on achieving my goals and contributing to my team's success, always seeking to embrace challenges that allow me to learn and grow.
+<div align="justify"> Desenvolvedor Front-End com experiência no desenvolvimento de soluções para e-commerce, utilizando principalmente ReactJS, TypeScript e a plataforma VTEX IO. Minha atuação é guiada por performance, experiência do usuário e escalabilidade, sempre alinhando tecnologia às necessidades do negócio.
 
-As a professional, I am determined and focused on delivering high-quality projects, always meeting or exceeding client expectations. I greatly value teamwork and am committed to collaborating effectively to achieve common goals.
+Formado em Engenharia de Software e atualmente cursando pós-graduação em Front-End Engineering pela FIAP, acredito que aprendizado contínuo e prática são fundamentais para a excelência técnica.
+Tenho experiência em componentização estratégica, customizações avançadas, melhorias de performance (Core Web Vitals) e SEO técnico, sempre com foco em entregar resultados tangíveis e valor para a equipe e para o cliente.
 
-I am preparing to begin a specialization in Front-end Engineering at FIAP, reinforcing my commitment to becoming an expert in this field. I believe that continuous learning is essential for success in software development. Therefore, I am always seeking new ways to improve, whether through reading, active participation in developer communities, or experimenting with new technologies such as ReactJS, TypeScript, and VTEX IO.
-
-I am excited to explore new opportunities that allow me to grow, learn, and contribute even more to my team and company. I am ready to face new challenges and add value through my skills and dedication.
+Estou sempre em busca de novos desafios que me permitam evoluir tecnicamente, colaborar com times de alta performance e contribuir para projetos que impactem positivamente usuários e negócios.
 </div>
 
 <br>
 
-* 🌍 I am based in São Paulo, Brazil
-* ✉️ You can contact me at [joaovitorcut@gmail.com](mailto:joaovitocut@gmail.com)
-* 🚀 I am currently working at [Corebiz](https://www.corebiz.ag/) - VTEX IO, VTEX Legacy, JavaScript, ReactJS, Sass, HTML and CSS
+* 🌍 Eu moro em São Paulo, Brazil
+* ✉️ Você pode entrar em contato comigo em [joaovitorcut@gmail.com](mailto:joaovitocut@gmail.com)
+* 🚀 Atualmente estou trabalhando na [Corebiz](https://www.corebiz.ag/) - VTEX IO, VTEX Legacy, JavaScript, ReactJS, TypeScript, Sass, HTML e CSS
 
 <br>
 
@@ -29,7 +28,7 @@ I am excited to explore new opportunities that allow me to grow, learn, and cont
   
 <br>
   
-  Languages and Tools:
+  Linguagens e Ferramentas:
 ------------------------------------------
   
 <div style="display: inline_block" align="center"><br>
@@ -47,7 +46,7 @@ I am excited to explore new opportunities that allow me to grow, learn, and cont
 
 </div>
   
-Social Media:
+Mídias Sociais:
 --------------------------------------------
   
 <div align="center">
