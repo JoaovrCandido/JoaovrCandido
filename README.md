@@ -25,8 +25,8 @@ Estou sempre em busca de novos desafios que me permitam evoluir tecnicamente, co
 
 <div align="center">
   <a href="https://github.com/JoaovrCandido">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johncutz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johncutz&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaovrCandido&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovrCandido&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
 <br>
